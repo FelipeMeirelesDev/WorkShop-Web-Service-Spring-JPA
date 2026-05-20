@@ -1,4 +1,4 @@
-package com.felipemeirelesdev.workshop.resource;
+package com.felipemeirelesdev.workshop.resources;
 
 import com.felipemeirelesdev.workshop.entities.User;
 import org.springframework.http.ResponseEntity;
